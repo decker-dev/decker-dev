@@ -16,9 +16,7 @@
                 src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji>
     </h3>
     <p>I'm Decker, a developer, passionate about open source and creating technical
-        content for a variety of audiences. I also enjoy <a href="https://twitch.tv/erikaheidi" rel="nofollow">live
-            coding</a> and <a href="https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607"
-            rel="nofollow">drawing</a> as educational resources.</p>
+        content for a variety of audiences.</p>
     <!--<p>I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about
         right now:</p>
     <ul>
