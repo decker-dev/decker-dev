@@ -8,7 +8,11 @@
       Hi there
     </h3>
     <p>I'm Decker, a developer, passionate about open source and creating technical
-        content for a variety of audiences.</p>
+        content for a variety of audiences.
+    </p>
+    <p>
+      i like programing is fun
+    </p>
     <!--<p>I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about
         right now:</p>
     <ul>
