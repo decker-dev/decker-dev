@@ -11,7 +11,7 @@
         content for a variety of audiences.
     </p>
     <p>
-      i like programing is fun
+      i like programming is fun
     </p>
     <!--<p>I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about
         right now:</p>
