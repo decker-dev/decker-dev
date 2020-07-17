@@ -13,12 +13,5 @@
     <p>
       i like programming is fun
     </p>
-    <!--<p>I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about
-        right now:</p>
-    <ul>
-     <li><a href="https://github.com/minicli/minicli">Minicli</a> - A minimalist framework for command-line centric
-            PHP apps.</li>
-        <li><a href="https://github.com/erikaheidi/streamaru">Streamaru</a> - An experimental collection of tools for
-            live streaming with OBS.</li>
-    </ul>
+
 
