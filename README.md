@@ -22,7 +22,12 @@
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://decker-exe.vercel.app/api?username=decker_exe&show_icons=true&hide_border=true" />
+
+</details>
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
