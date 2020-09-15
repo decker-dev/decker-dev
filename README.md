@@ -18,6 +18,7 @@
 
 <br/>
 <!--START_SECTION:waka-->
+SHOW_LINES_OF_CODE
 <!--END_SECTION:waka-->
 <br/>
 
