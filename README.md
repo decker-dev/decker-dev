@@ -17,12 +17,7 @@
 [<img align="left" alt="deckerurbano.com | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
-<details>
-<summary>:zap: GitHubCode</summary>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</details>
-<br/>
+
 <br/>
 <details>
   <summary>:zap: Github Action</summary>
@@ -30,7 +25,11 @@
 1. 🎉 Merged PR [#1](https://github.com//Decker-exe/REACT-GRAPHQL/pull/1) in [Decker-exe/REACT-GRAPHQL](https://github.com//Decker-exe/REACT-GRAPHQL)
 <!--END_SECTION:activity-->
 </details>
-
+<details>
+<summary>:zap: GitHubCode</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true&theme=nord" />
