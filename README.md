@@ -25,7 +25,7 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 
 </details>
----
+
 [website]: https://deckerurbano.com/
 [twitter]: https://twitter.com/UrbanoDecker
 [linkedin]: https://www.linkedin.com/in/decker-urbano/
