@@ -2,13 +2,12 @@
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!
-
+- :star2:  I like programming, it's fun
 - 🔭 I’m currently working on a [Medical Software][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to swim :swimmer: and play violin :violin:
 
 
 
