@@ -19,6 +19,7 @@
 <br/>
 <br/>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//Decker-exe/REACT-GRAPHQL/pull/1) in [Decker-exe/REACT-GRAPHQL](https://github.com//Decker-exe/REACT-GRAPHQL)
 <!--END_SECTION:activity-->
 <details>
   <summary>:zap: Github Stats</summary>
