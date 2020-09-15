@@ -18,6 +18,7 @@
 
 <br/>
 <details>
+<summary>:zap: GitHubCode</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
