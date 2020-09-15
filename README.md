@@ -18,8 +18,12 @@
 
 <br/>
 <br/>
+<details>
+  <summary>:zap: Github Action</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details>
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true&theme=nord" />
