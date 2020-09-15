@@ -17,7 +17,10 @@
 [<img align="left" alt="deckerurbano.com | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br/>
+
 <details>
   <summary>:zap: Github Action</summary>
 <!--START_SECTION:activity-->
