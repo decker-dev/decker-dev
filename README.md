@@ -22,7 +22,7 @@
 <details>
   <summary>:zap: Github Action</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Decker-exe/REACT-GRAPHQL/pull/1) in [Decker-exe/REACT-GRAPHQL](https://github.com//Decker-exe/REACT-GRAPHQL)
+1. ❗️ Opened issue [#128](https://github.com//rossjrw/rossjrw/issues/128) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 </details>
 <details>
