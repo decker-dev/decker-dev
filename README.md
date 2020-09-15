@@ -1,6 +1,5 @@
 ### Hi there, I'm Decker  👋
 
-
 - :star2:  I like programming, it's fun
 - 🔭 I’m currently working on a [Medical Software][website]!
 - 🌱 I’m currently learning everything 🤣
