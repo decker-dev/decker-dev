@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse  👋
 
 
 
@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://decker-exe-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true" />
 
 </details>
 
