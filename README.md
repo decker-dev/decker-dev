@@ -28,79 +28,9 @@
 <details>
 <summary>:zap: GitHubCode</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 230 Contributions in the Year 2020
- > 
-> 📦 39.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories
- > 
-> 🔑 4 Private Repositories 
-
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
-🌆 Daytime    67 commits     ████████░░░░░░░░░░░░░░░░░   33.0% 
-🌃 Evening    99 commits     ████████████░░░░░░░░░░░░░   48.77% 
-🌙 Night      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26%
-
+No Activity tracked this Week
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Tuesday      35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Wednesday    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Thursday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-Saturday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Sunday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Decker-exe/Decker-exe/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </details>
 <details>
