@@ -13,15 +13,16 @@
 ### Connect with me:
 
 [<img align="left" alt="deckerurbano.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br/>
 [<img align="left" alt="deckerurbano | Twitter" width="100px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-<br/>
 [<img align="left" alt="deckerurbano.com | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
 <br/>
+<details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true&theme=nord" />
+</details>
+
 <br/>
 <br/>
 
