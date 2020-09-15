@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
