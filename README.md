@@ -75,7 +75,7 @@ C++                      1 repos             █░░░░░░░░░░�
 </details>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-git-master.decker-unx.vercel.app/api?username=decker-exe&show_icons=true&hide_border=true&count_private=true&theme=nord" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-git-master.decker-unx.vercel.app/api?username=decker-dev&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 </details>
 
 <br/>
