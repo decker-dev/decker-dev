@@ -81,7 +81,7 @@ C++                      1 repos             █░░░░░░░░░░�
 </details>
 <details>
   <summary>:zap: Spotify Music</summary>
-[<img src="https://music.decker-unx.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />]()
+<img src="https://music.decker-unx.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />
 </details>
 <br/>
 <br/>
