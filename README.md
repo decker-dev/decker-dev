@@ -21,7 +21,7 @@
 <details>
   <summary>:zap: Github Action</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com//rossjrw/rossjrw/issues/128) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+1. 🎉 Merged PR [#9](https://github.com//decker-dev/blog-Laravel/pull/9) in [decker-dev/blog-Laravel](https://github.com//decker-dev/blog-Laravel)
 <!--END_SECTION:activity-->
 </details>
 <br/>
