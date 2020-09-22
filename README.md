@@ -83,12 +83,10 @@ C++                      1 repos             █░░░░░░░░░░�
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-git-master.decker-unx.vercel.app/api?username=decker-dev&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 </details>
-<br/>
 <details>
   <summary>:zap: Spotify Music</summary>
 <img src="https://music.decker-unx.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />
 </details>
-<br/>
 <br/>
 
 [website]: https://deckerurbano.com/
