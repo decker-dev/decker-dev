@@ -24,7 +24,6 @@
 1. 🎉 Merged PR [#9](https://github.com//decker-dev/blog-Laravel/pull/9) in [decker-dev/blog-Laravel](https://github.com//decker-dev/blog-Laravel)
 <!--END_SECTION:activity-->
 </details>
-<br/>
 <details>
 <summary>:zap: GitHubCode</summary>
 <!--START_SECTION:waka-->
@@ -78,7 +77,6 @@ C++                      1 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
-<br/>
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-git-master.decker-unx.vercel.app/api?username=decker-dev&show_icons=true&hide_border=true&count_private=true&theme=nord" />
