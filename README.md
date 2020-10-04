@@ -86,7 +86,6 @@ C++                      1 repos             █░░░░░░░░░░�
 <img src="https://music.decker-unx.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />
 </details>
 <br/>
-
 [website]: https://deckerurbano.com/
 [twitter]: https://twitter.com/UrbanoDecker
 [linkedin]: https://www.linkedin.com/in/decker-urbano/
