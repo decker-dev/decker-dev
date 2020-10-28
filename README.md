@@ -3,7 +3,7 @@
 - :star2:  I like programming, it's fun
 - 🔭 I’m currently working on a [Medical Software][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to swim :swimmer: and play violin :violin:
  
