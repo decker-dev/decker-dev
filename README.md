@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,103 Contributions in the Year 2020
+> 🏆 1,104 Contributions in the Year 2020
  > 
 > 📦 40.1 kB Used in Github's Storage 
  > 
@@ -54,7 +54,7 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.0%
+JavaScript               1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
