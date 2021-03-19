@@ -54,7 +54,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
