@@ -29,9 +29,9 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 29 Contributions in the Year 2021
+> 🏆 30 Contributions in the Year 2021
  > 
-> 📦 42.8 kB Used in Github's Storage 
+> 📦 43.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,8 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 25 mins        █████████████████░░░░░░░░   69.99% 
+Text                     36 mins             ███████░░░░░░░░░░░░░░░░░░   30.01%
 
 ```
 
