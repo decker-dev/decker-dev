@@ -27,11 +27,11 @@
 <details>
 <summary>:zap: GitHubCode</summary>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 54 Contributions in the Year 2021
  > 
-> 📦 44.1 kB Used in Github's Storage 
+> 📦 44.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -71,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 </details>
 <details>
