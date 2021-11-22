@@ -1,7 +1,7 @@
 ### Hi there, I'm Decker  👋
 
 - :star2:  I like programming, it's fun
-- 🔭 I’m currently working on a [Medical Software][website]!
+- 🔭 I’m currently working on a Fintech
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
