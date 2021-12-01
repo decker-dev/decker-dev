@@ -54,8 +54,7 @@
 
 ```text
 💬 Programming Languages: 
-Solidity                 1 hr 4 mins         █████████████████████████   99.67% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+No Activity Tracked This Week
 
 ```
 
@@ -72,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 </details>
 <details>
