@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 44.3 kB Used in GitHub's Storage 
  > 
@@ -71,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
 <details>
