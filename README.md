@@ -54,8 +54,7 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 mins              ███████████████░░░░░░░░░░   60.99% 
-HTML                     3 mins              █████████░░░░░░░░░░░░░░░░   39.01%
+No Activity Tracked This Week
 
 ```
 
@@ -72,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 </details>
 <details>
