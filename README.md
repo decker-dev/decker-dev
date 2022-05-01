@@ -88,3 +88,4 @@ C++                      1 repo              █░░░░░░░░░░�
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<a href="https://app.daily.dev/Decker"><img src="https://api.daily.dev/devcards/1cb5e98af01748f5b9cea3a34c295d78.png?r=jx6" width="400" alt="Decker's Dev Card"/></a>
