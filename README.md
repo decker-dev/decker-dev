@@ -1,4 +1,5 @@
-<a href="https://app.daily.dev/Decker"><img align='right' src="https://api.daily.dev/devcards/1cb5e98af01748f5b9cea3a34c295d78.png?r=jx6" width="400" alt="Decker's Dev Card"/></a>
+<a href="https://app.daily.dev/Decker"><img align='right' width=350px src="https://github.com/decker-dev/decker-dev/blob/master/devcard.svg" width="400" alt="Decker Dev Card"/></a>
+
 ### Hey there, I'm Decker  👋
 
 - :star2:  I like programming, it's fun
