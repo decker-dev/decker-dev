@@ -20,15 +20,7 @@
 <br/>
 
 <br/>
-<details>
-  <summary>:zap: Github Action</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/decker-dev/blog-Laravel/pull/9) in [decker-dev/blog-Laravel](https://github.com/decker-dev/blog-Laravel)
-<!--END_SECTION:activity-->
-</details>
-<details>
 <summary>:zap: GitHubCode</summary>
-<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 🏆 27 Contributions in the Year 2022
@@ -78,12 +70,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 07/05/2022 00:50:56 UTC
-<!--END_SECTION:waka-->
-</details>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-git-master.decker-unx.vercel.app/api?username=decker-dev&show_icons=true&hide_border=true&count_private=true&theme=nord" />
-</details>
 
 <br/>
 
