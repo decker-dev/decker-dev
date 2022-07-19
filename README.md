@@ -5,9 +5,7 @@
 - :star2:  I like programming, it's fun
 - 🔭 I’m currently working on a Fintech
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to swim :swimmer: and play volleyball 🏐
     
            
      
