@@ -5,7 +5,6 @@
 - :star2:  I like programming, it's fun
 - 🔭 I’m currently working on a Fintech
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to Open Source projects
     
            
      
