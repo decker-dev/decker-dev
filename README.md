@@ -15,6 +15,15 @@
 [<img align="left" alt="deckerurbano.com | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript            19 hrs 8 mins   █████████████▒░░░░░░░░░░░   52.69 %
+PHP                   9 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
+JavaScript            4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+MDX                   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON                  37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+```
+
 <!--END_SECTION:waka-->
 [website]: https://deckerurbano.com/
 [twitter]: https://twitter.com/UrbanoDecker
