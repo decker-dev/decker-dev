@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              17 hrs 44 mins  █████████████▒░░░░░░░░░░░   53.14 %
-TypeScript       7 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-JavaScript       2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JSON             1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-SmartyConfig     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+PHP              15 hrs 19 mins  ████████████▒░░░░░░░░░░░░   49.90 %
+TypeScript       7 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+JavaScript       2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+JSON             1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+SmartyConfig     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
