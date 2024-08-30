@@ -1,21 +1,17 @@
+# Hey Hackers 👋
 
-### Hey there, I'm Decker 👋
+My name is Decker. I am the CTO of Commet and a student of Computer Engineering at UADE.
 
-- 🌟 I like programming, it's fun
-- 🔭 I’m currently working on a Fintech
-- 🌱 I’m currently learning everything 🤣
-
-### 📱Connect with me:
-
-[<img align="left" alt="decker.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin-right: 10px;" />](https://decker.sh)
-[<img align="left" alt="deckerurbano | Twitter" width="100px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="margin-right: 10px;" />](https://twitter.com/deckerurbano)
-[<img align="left" alt="deckerurbano.com | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/deckerurbano)
-
-<br/>
+### 📫 How to reach me?
+- [Twitter](https://x.com/0xDecker) 
+- [LinkedIn](https://www.linkedin.com/in/decker-urbano/) 
+- [My personal blog](http://decker.sh) 
+- [Mail](mailto:me@decker.sh)
 
 ---
 
-<div style="text-align: center;">
+### Coding time in the last Week
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,4 +23,3 @@ CSS              37 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</div>
