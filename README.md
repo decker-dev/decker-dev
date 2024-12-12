@@ -15,11 +15,11 @@ My name is Decker. I am the CTO of Commet and a student of Computer Engineering 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 hrs 23 mins  ████████████████████████░   96.06 %
-JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   23 hrs 55 mins  ████████████████████████▒   96.83 %
+JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
