@@ -1,6 +1,6 @@
 # Hey Hackers 👋
 
-My name is Decker. I am the CTO of Commet and a student of Computer Engineering at UADE.
+My name is Decker. I am the CTO @Commet and a student of Computer Engineering at UADE.
 
 ### 📫 How to reach me?
 - [Twitter](https://x.com/0xDecker) 
