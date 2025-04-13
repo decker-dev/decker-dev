@@ -15,11 +15,11 @@ My name is Decker. I`m CTO @Commet and a student of Computer Engineering at UADE
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 hrs 13 mins  ███████████████████████▒░   92.74 %
-JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Java         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   25 hrs 37 mins  ██████████████████████░░░   87.68 %
+JSON         1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Bash         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
